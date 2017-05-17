@@ -1,0 +1,273 @@
+<style>
+#title{font-size:60px; font-family:stencil;}
+
+body{background-image: url("https://s2.postimg.org/u00p7j6ax/Grieg20.jpg"); background-size: 1590px 1800px; background-attachment:fixed;}
+
+.heading{background-color:rgb(180,170,255); padding:30px; margin-left:400px; margin-right:400px; border-bottom="40px"; margin-top:80px; margin-bottom:50px; position:relative; top:40px;}
+
+.maintext{text-color:rgb(0,0,0); font-size:22px; font-family:franklin-gothic-demi; background-color:rgb(160,190,180); margin:60px; padding:20px; margin-top:80px;}
+
+.relative-position1{position: relative;
+left:25px; top:50px}
+
+.relative-position2{position: relative; left:1020px; top:50px;}
+
+.relative-position3{position:relative; right:184px; top:50px;}
+
+.windowbackground{background-color:rgb(220,220,255); margin-left:70px; margin-right:70px; border-top:20px;}
+
+#content{font-family:broadway; font-size: 32px;}
+
+.contentlist{text-align:center;}
+.contentlist ol{display:inline-block; text-align:left;}
+.contentlist li{text-align:left;}
+
+#biography{font-family:times-new-roman; font-size:35px;}
+
+.imagespace{margin:30px;}
+
+ol li{font-family:times-new-roman;font-size:25px; text-align:center; list-style-position:inside;}
+
+#Timeline{font-family:times-new-roman; text-align:center; font-size:35px;}
+
+.timeline{margin-left:20px; font-size:25px; font-family:Cooper-Black;}
+
+.ullensvang{hspace:30px; text-align:justify; display:block;}
+
+.ullenscaption{position:relative; left:8px;}
+
+.griegcaption{font-family:calibri; font-size:22px; text-align:center;}
+
+.cabincaption{position:relative; right:22px;}
+
+#Works{font-family:Old English Text MT; text-align:center; font-size:50px; background-color:rgb(200,200,255); margin-top:40px; margin-bottom:30px; padding:15px;}
+
+.worksalignment{position:relative; left:8px;}
+
+.timelinebackground{background-image:url("https://s8.postimg.org/dy5330bg5/Grieg11.jpg"); background-size:1444px 975px; background-repeat: repeat-y; height: 2560px; padding-top:40px; margin-bottom:40px;}
+
+#figcaption{width:427.2px; text-align:center; font-family:Miriam; font-size:22px; background-color: rgb(200,200,255); padding:5px; width:445px; margin-top:-4px;}
+
+.references{background-color: rgb(200,200,255); margin-bottom:50px; margin-right:70px; margin-left:70px; font-family:Calibri;}
+
+#references{text-align: center;}
+
+
+
+
+</style>
+
+
+<div class="windowbackground">
+<div class="heading">
+<h1 id="title" class="text-center">EDVARD GRIEG</h1>
+  <h2 class="text-center" padding-bottom="30px">(1843-1907)</h2>
+</div>
+
+    <div>
+<img src="https://s16.postimg.org/vktefxmdx/Grieg3.jpg" alt="Profile picture of Edvard Grieg" width="200px" height="300px" class="relative-position1">
+
+<img src="https://s27.postimg.org/tsg69dwar/grieg5.jpg" alt="Edvard Grieg picture" class="relative-position2" width="200px" height="300px">
+
+<img src="https://s17.postimg.org/gdwxxf96n/grieg4.jpg" alt="Bergen" width="999px" height="370px" class=relative-position3>
+    </div>
+    <br></br>
+  <br></br>
+    <div>
+      <h1 id="content" class="text-center"><b>Content</b></h1>
+
+      <div class="contentlist">
+        <ol>
+          <li><a href="#Biography">Biography</a></li>
+          <li><a href="#Timeline">Timeline</a></li>
+          <li><a href="#Works">Selected Works</a></li>
+        </ol>
+    </div>
+<div class="maintext">
+  <h1 id="biography" class="text-center" padding-bottom="60px" id="Biography"><b>Biography</b></h1>
+  <p></p>
+   <p>Edvard Hagerup Grieg is one of the greatest if not the greatest icons of Norway. Grieg was born on Jun, 15 1843 to a merchant father and a mother who was a musical teacher. Grieg showed an affinity to music from a young age. His talent was developed by his mother until he enrolled at the Conservatory of Leipzig in the fall of 1858 at the recommendation of a distant relative named Ole Bull who was a renowned violinist. Grieg initially had a lot of trouble adjusting at his school in Leipzig and this reflected in his poor grades. Grieg survived pleurisy and pneumonia that left his left lung collapsed in 1860. This affected his health for the rest of his life. Grieg went on to graduate from the Leipzig Conservatory with excellent grades and as a noted musician.
+  </p>
+  <p>
+Grieg left for Copenhagen in 1863, where he would live for the next three years. Copenhagen was the art and cultural hub of Scandinavia at the time and Grieg hoped to develop himself as a composer here. He wrote a symphony at the encouragement of fellow composer Niels Gade. Although the symphony was instrumental in the development of his technical skills, Grieg did not want it to ever be performed.
+  </p>
+  <p>
+Grieg married Nina Hagerup in 1867. Grieg’s greatest breakthrough came in 1868 with his composition of his piano concerto in A minor.
+Although he mostly composed in German romantic styles during his earlier years, Grieg desperately wanted to develop music with a Norwegian identity. Most of his productive times as a composer were during the summer when he had more time. Grieg had a wooden cabin by the majestic landscapes of the settlement of Ullensvang. Grieg also brought a piano to his log cabin so that he could work on his compositions almost full time here.
+
+ <table style="float:right; margin-left:5px; margin-right:5px;">
+   <tr><td>
+ <img class="ullensvang" src="https://s8.postimg.org/j11ocv1kl/Grieg15.jpg" alt="The Settlement of Ullensvang" width="601.5px" height="400px" align="right"></tr></td>
+  <tr style="font-family:calibri; font-size:18px"><td class="ullenscaption">The landscape of Ullensvang with the modern Hotel of Ullensvang in the foreground</td></tr>
+  </table>
+
+ His autobiographer Aimer Gronvold wrote about the fact that Grieg was greatly inspired by the landscapes and people around him while he composed at his summer dwelling.
+  </p>
+  <p>
+The Peer Gynt suites, which are one of Grieg’s trademark compositions, were started in 1874 as an incidental music to the plays Peer Gynt by Henrik Ibsen. The author himself requested Grieg to make the compositions. During his most productive years, Grieg went all over Europe on performance tours. His travels allowed him to meet other famous composers including Liszt, Brahms, Tchaikovsky and Clara Schumann.
+  </p>
+  <p>
+From 1880 to 1882, Grieg served as the musical director of the Bergen Philharmonic. Grieg remained a renowned composer of his time in his later years and received a retirement pension from the Norwegian government. Edvard Grieg passed away on Sep. 4, 1907 after suffering a heart attack and being admitted to a municipal hospital in Bergen. His funeral was attended by over 40,000 people and was marked by his own composition of a funeral march. The funeral march had been written earlier for the funeral of his friend and fellow composer, Rikard Nordraak.
+  </p>
+<div class="row">
+<div class="col-md-6"><img src="https://s29.postimg.org/p8r9dvo0n/Grieg7.jpg" alt="Grieg's Composer's Cabin" width="598.5px" height="450px">
+<figcaption class="griegcaption cabincaption">Grieg's "Composer's Cabin" in Ullensvang just outside Bergen</figcaption>
+</div>
+
+<div class="col-md-6">
+<img class="imagealign" style="align:right" src="https://s8.postimg.org/wvsilq9zp/Grieg8.jpg" alt="Edvard Grieg and Nina Hagerup" width="636px" height="400px">
+<figcaption class="griegcaption">Edvard Grieg and Nina Hagerup</figcaption>
+
+</div>
+</div>
+</div>
+
+<div class="timelinebackground">
+
+     <div style="border:20px; border-style:double; border-color:rgb(0,0,100); padding:15px; margin-left:250px; margin-right:190px; background-color:rgb(160,180,200);">
+       <h1 id="Timeline"><b>Timeline</b></h1>
+      <div class="timeline"><ul>
+        <li><b>1843:</b> Edvard Grieg was born in the city of Bergen.</li>
+        <li><b>1858:</b> Grieg enrolled at the conservatory in Leipzig concentrating on the piano.</li>
+        <li><b>1860:</b> Grieg survived two life-threatening lung conditions pleurisy and tuberculosis which left his health impaired for the rest of his life.</li>
+        <li><b>1861:</b> Grieg made his debut as a pianist in Karishmn, Sweden.</li>
+        <li><b>1863:</b> Grieg went to Copenhagen where he stayed for three years and met Danish composers J.P.E. Hartmann and Niels Gade.</li>
+        <li><b>1867:</b> Grieg married Nina Hagerup.</li>
+        <li><b>1868:</b> Grieg composed his piano concerto in A minor in the summer of 1868.</li>
+        <li><b>1870:</b> Grieg met Franz Liszt in Italy.</li>
+        <li><b>1874:</b> Grieg began his compositions of the incidental music for Henrik Ibsen’s play Peer Gynt at the request of the author</li>
+        <li><b>1880:</b> Grieg became the musical director of the Bergen Philharmonic.
+          </li>
+        <li><b>1888:</b> Grieg met Tchaikovsky in Leipzig.</li>
+        <li><b>1907:</b> Grieg died of heart failure in Bergen in the late summer of 1907.</li>
+        </ul></div>
+
+</div>
+
+
+<h1 id="Works"><b>Selected Works</b></h1>
+
+<div class="row worksalignment">
+
+<div class="col-md-4">
+<iframe src="https://www.youtube.com/embed/8uglsrxy-_Q" frameborder="0" allowfullscreen width="445" height="250"></iframe>
+  <figcaption id="figcaption">Piano Concerto in A minor</figcaption>
+</div>
+
+<div class="col-md-4">
+  <iframe src="https://www.youtube.com/embed/O2gDFJWhXp8" frameborder="0" allowfullscreen width="445" height="250"></iframe>
+  <figcaption id="figcaption">Peer Gynt Suites 1 & 2 </figcaption>
+</div>
+
+<div class="col-md-4">
+  <iframe src="https://www.youtube.com/embed/OPfxfO4NG1E" frameborder="0" allowfullscreen width="445" height="250"></iframe>
+  <figcaption id="figcaption">Holberg Suite</figcaption>
+</div>
+</div>
+<br>
+<br>
+
+<div margin-top="80px" class="row worksalignment">
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/bNl081XuimE" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Piano Sonata in E Minor</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/Iwb4pLhPiYU" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Grieg's Three Violin Sonatas</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/W7aAfEuRK5g" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Four Symphonic Dances</figcaption></div>
+  </div>
+<br>
+<br>
+
+<div class="row worksalignment">
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/GWwn98FvnL4" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Concert Overture in Autumn</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/ZJi_rb9D8I4" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Funeral March for Rikard Nordraak</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/GgdpeLx0TGI" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Cello Sonata in A minor</figcaption></div>
+  </div>
+<br>
+<br>
+
+<div class="row worksalignment">
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/pZZkxLY9uqc" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">String Quartet in G minor</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/JFJV4Wrva8I" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Symphony in C minor</figcaption></div>
+
+  <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/LnDKo9Zux_Q" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Orchestral Pieces from Sigurd Jorsalfar</figcaption</div>
+</div>
+    <br>
+    <br>
+
+    <div class="row worksalignment">
+
+      <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/kp4DWic8ndg" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Lyric Suite For Orchestra</figcaption></div>
+
+      <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/cyKIaEmIzOU" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Choral Music Selections</figcaption></div>
+
+      <div class="col-md-4"><iframe width="445" height="250" src="https://www.youtube.com/embed/ax3tdHwqvvo" frameborder="0" allowfullscreen></iframe><figcaption id="figcaption">Norwegian Dances (Orchestrated)</figcaption></div>
+
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+  <div class="references">
+    <h1 id="references" style="font-size:40px"><b>References:</b></h1>
+
+    <div style="font-size:18px">
+      <ul>
+
+        <li>Zafra, Zalman. "Northern Lights Wallpapers | feelgrPH." <i>feelgrafix, </i>#862344, 06/29/2015, <a href="http://feelgrafix.com/862344-northern-lights-wallpaper.html">feelgrafix.com/862344-northern-lights-wallpaper.html</a> </li>
+
+        <br>
+
+        <li>Herresthal, Harald. "Edvard Grieg" <i>Metropolitan News Company, </i>Metropolitan News Company, 10/01, <a href="http://www.mnc.net/norway/grieg.htm">www.mnc.net/norway/grieg.htm.</a> 05/11/2017.</li>
+
+        <br>
+
+        <li><i>"Edvard Grieg." </i>Edvard Grieg Museum, <a href="http://griegmuseum.no/en/about-grieg">griegmuseum.no/en/about-grieg,</a> 05/11/2017.</li>
+
+        <br>
+
+        <li>"Edvard Grieg Biography." <i>The Famous People, </i>The Famous People, <a href="http://www.thefamouspeople.com/profiles/edvard-grieg-462.php">www.thefamouspeople.com/profiles/edvard-grieg-462.php, </a>5/14/2017.</li>
+
+        <br>
+
+        <li>Anderson, Karl. "Edvard Grieg Portrait." <i>mfiles, </i>Bergen Public Library Norway, <a href="http://www.mfiles.co.uk/reviews/2L60-Edvard-Grieg.jpg">www.mfiles.co.uk/reviews/2L60-Edvard-Grieg.jpg.</a></li>
+
+        <br>
+
+        <li>Veland, Erik. "Bryggen i Bergen." <i>flickr, </i>06/08/2005, <a href="http://bighugelabs.com/onblack.php?id=445744100&size=large">bighugelabs.com/onblack.php?id=445744100&size=large</a> </li>
+
+        <br>
+
+        <li>Axel, Lindhal. "Edvard Grieg Portrait 1888."<i>Bergen Offentlige Bibliotek, </i> Bergen Public Library Norway, <a href="http://www.bergen.folkebibl.no/arkiv/grieg/fotografi/stor_edvard_portrett_1880_ca_sign.jpg.0">www.bergen.folkebibl.no/arkiv/grieg/fotografi/stor_edvard_portrett_1880_ca_sign.jpg.0</a></li>
+
+        <br>
+
+        <li>Mrack, Generoso. "Ullensvang, Norway." <i> flickr, </i>08/19/2007, <a href="https://www.flickr.com/photos/gmrack/1154062962/in/photolist-2KYSHh-9YLKKu-JDkHhZ-JbKyBG-x9x6ZN-RNmGwU-zM1oGG-oQweGM-KMExXJ-HKoBUF-ap3RT8-JU7tN8-sAHtof-8i3Adf-xdPwh4-oyipsE-bqS7zr-xQvqUb-qdhd4o-qdhdrY-vTdrMT-Q1zvfZ-L7BZQN-TyeNPP-qPTtLn-aqdm1m-brjXSp-x4ufU5-9JWPR7-aBEL8c-t1yram-cZ2JLf-aBF1VD-aqdzSu-aqdPCU-8A19BW-bNAwV6-oPVTWg-JybtmP-ap6w7Q-eH8XXv-aBEV5T-oTiEjB-wS8iG2-oS1h43-k8SHN-t7uzFT-rE62NK-2KYQf9-u4kAAP">www.flickr.com/photos/gmrack.</a></li>
+
+        <br>
+
+        <li>Danny&Anne. "Grieg Composer Cabin - Ullensvang Hotel." <i>Panoramio, </i>7/17/2010, <a href="http://www.panoramio.com/photo/38049897">www.panoramio.com/photo/38049897</a></li>
+
+        <br>
+
+        <li>Elliot & Fry. "Edvard & Nina Grieg Portrait." <i>flickr, </i>Bergen Public Library Norway, 02/08/2011, <a href="https://www.flickr.com/photos/37381115@N04/5427115845"></a>www.flickr.com/photos/37381115@N04/5427115845</li>
+
+        <br>
+
+        <li><i>Keyword-suggestions, </i>11/29/2016, <a href="https://holykaw.alltop.com/wp-content/uploads/2013/09/sheet-music.jpg">holykaw.alltop.com/wp-content/uploads/2013/09/sheet-music.jpg</a></li>
+
+        <br>
+
+      </ul>
+    </div>
+</div>
+
+
+  </body>
+</div>
